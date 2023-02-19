@@ -1,5 +1,6 @@
 -- Jamie Pond's Nvim Config!
 -- You probs want to install tmux with this for it to be any fun. 
+-- TODO is there a nicer way to get the tmux config going? 
 
 -- Install packer
 local install_path = vim.fn.stdpath 'data' .. '/site/pack/packer/start/packer.nvim'
