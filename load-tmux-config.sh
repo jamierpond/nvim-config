@@ -2,4 +2,4 @@
 currentDir=$(pwd)
 
 # Copy tmux config file to home directory
-cp $currentDir/tmux.conf ~/.tmux.conf
+cp $currentDir/.tmux.conf ~/.tmux.conf
